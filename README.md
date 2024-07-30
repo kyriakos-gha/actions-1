@@ -5,3 +5,5 @@ We will be learning GitHub Actions,
 - enhancing productivity and code quality
 
 Some random text
+
+We made some changes in README
